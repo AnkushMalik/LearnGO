@@ -5,3 +5,4 @@ my personal go learning repo
 ___
 # Resources I used :
 - [Traversy Media's Go Course](https://youtu.be/SqrbIlUwR0U)
+- [Go Programming by Derek Banas](https://youtu.be/CF9S4QZuV30)
